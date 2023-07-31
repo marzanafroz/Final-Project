@@ -1,0 +1,15 @@
+h1{
+    color: #85BF00;
+}
+
+#pagination-links ul li.active a{
+  
+    background-color: green;
+ }
+ #pagination-links ul li a{
+     background-color: rgb(28, 90, 80);
+     display: block;
+     text-decoration: none;
+     color: #fff;
+     padding: 5px 10px;
+ }
